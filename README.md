@@ -17,7 +17,7 @@ For this purpose, the following gains will be achieved:
 - Sakila database was used. You can check it from; https://dev.mysql.com/doc/sakila/en/
 
 
-- ### Data Modelling Phases:
+## Data Modelling Phases:
 
     - Conceptual Modelling:
 
@@ -39,11 +39,11 @@ For this purpose, the following gains will be achieved:
     ![physical_model](modelling_images/physical_model.png)
 
 
-- ### ELT Process
+### ELT Process
 
     - OLTP(PostgreSQL) → Staging(PostgreSQL) → DWH(BigQuery)
 
-- ### Technologies Used
 
+### Technologies Used
 
     - Python, Airflow, BigQuery, PostgreSQL
