@@ -10,7 +10,10 @@ For this purpose, the following gains will be achieved:
 
 ## Notes
 
-- I've used, Airflow 3. If you get confused about where tables coming from, you can check data_mapping excel file.
+- I've used, Airflow 3. So there might be few differences from previous versions.
+
+- If you get confused about where tables coming from, you can check data_mapping excel file.
+
 - Sakila database was used. You can check it from; https://dev.mysql.com/doc/sakila/en/
 
 
