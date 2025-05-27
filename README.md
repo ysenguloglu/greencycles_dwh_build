@@ -4,12 +4,12 @@ Since it is difficult for teams to make data-driven decisions, understand data a
 
 For this purpose, the following gains will be achieved:
         
-    - **Müşterilerin satın alma davranışları**,
-    - **Çalışanların ve dükkanların performansları**,
-    - **Filmlerin tercih edilmesinin veriye dayalı anlaşılması**.
+- **Müşterilerin satın alma davranışları**,
+- **Çalışanların ve dükkanların performansları**,
+- **Filmlerin tercih edilmesinin veriye dayalı anlaşılması**.
 
 
-- **Veri Modelleme Aşamaları**
+- ### Veri Modelleme Aşamaları
 
     - Conceptual Modelling:
 
@@ -23,10 +23,10 @@ For this purpose, the following gains will be achieved:
 
     ![physical_model](modelling_images/physical_model.png)
 
-- **ELT Process**
+- ### ELT Process
 
     - OLTP → Staging → DWH
 
-- **Technologies Used**
+- ### Technologies Used
 
     - Python, Airflow, BigQuery, PostgreSQL
