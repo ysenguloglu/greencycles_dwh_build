@@ -1,11 +1,13 @@
-- **About Project**
+# **About Project**
+
 Since it is difficult for teams to make data-driven decisions, understand data and table relationships and create reports through OLTP, it was decided to build a data warehouse using dimensional data modeling for the marketing, sales and customer relations departments that applied to the data team.
 
 For this purpose, the following gains will be achieved:
         
-- **Müşterilerin satın alma davranışları,**
-- **Çalışanların ve dükkanların performansları,**
-- **Filmlerin tercih edilmesinin veriye dayalı anlaşılması.**
+    - **Müşterilerin satın alma davranışları**,
+    - **Çalışanların ve dükkanların performansları**,
+    - **Filmlerin tercih edilmesinin veriye dayalı anlaşılması**.
+
 
 - **Veri Modelleme Aşamaları**
 
