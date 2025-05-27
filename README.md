@@ -17,7 +17,7 @@ For this purpose, the following gains will be achieved:
 - Sakila database was used. You can check it from; https://dev.mysql.com/doc/sakila/en/
 
 
-## Data Modelling Phases:
+## Data Modelling Phases
 
 - Conceptual Modelling:
 
