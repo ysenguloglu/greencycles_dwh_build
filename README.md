@@ -4,12 +4,12 @@ Since it is difficult for teams to make data-driven decisions, understand data a
 
 For this purpose, the following gains will be achieved:
         
-- **Müşterilerin satın alma davranışları**,
-- **Çalışanların ve dükkanların performansları**,
-- **Filmlerin tercih edilmesinin veriye dayalı anlaşılması**.
+- **Customers rental behavior**,
+- **Staff and stores performances**,
+- **Data-driven understanding of movie preference**.
 
 
-- ### Veri Modelleme Aşamaları
+- ### Data Modelling Phases:
 
     - Conceptual Modelling:
 
@@ -25,7 +25,7 @@ For this purpose, the following gains will be achieved:
 
 - ### ELT Process
 
-    - OLTP → Staging → DWH
+    - OLTP(PostgreSQL) → Staging(PostgreSQL) → DWH(BigQuery)
 
 - ### Technologies Used
 
